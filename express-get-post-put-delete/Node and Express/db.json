@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "Fire-Boltt Asphalt Newly Launched Racing Edition Smart Watch 1.91” ",
+    "description": " 1.91” Full Touch Screen - With a",
+    "price": "2499",
+    "image": "https://m.media-amazon.com/images/I/71HS506liEL._SL1500_.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": 2,
+    "title": "Mens Cotton Jacket",
+    "price": 55.99,
+    "description": "great outerwear jackets for Spring/Autumn/Winter, suitable for many occasions, such as working, hiking, camping, mountain/rock climbing, cycling, traveling or other outdoors. Good gift choice for you or your family member. A warm hearted love to Father, husband or son in this thanksgiving or Christmas Day.",
+    "category": "men's clothing",
+    "image": "https://fakestoreapi.com/img/71li-ujtlUL._AC_UX679_.jpg",
+    "rating": {
+      "rate": 4.7,
+      "count": 500
+    }
+  },
+  {
+    "id": 3,
+    "title": "OLEVS Men Watches Business Dress Easy Read Analog Quartz Date Luxury Wrist Watch Silver Casual Stainless Steel Waterproof Luminous Two Tone Watch for Men ",
+    "description": "【Men's Wrist Watch】Imported Movement, high quality quartz movement and battery provide accurate time keeping,Solid Durable and comfortable stainless steel band fits to daily wear,scratch proof mineral glass dial.",
+    "price": "3235",
+    "image": "https://m.media-amazon.com/images/I/71IKHM9ohvL._SX679_.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": 4,
+    "title": "Dell 15 Thin & Light Laptop, 12th Gen Intel Core i5-1235U Processor, 8GB, 512GB SSD, 15.6\" (38) cm FHD",
+    "description": " Processor: Intel Core i3-1215U 12th Generation (up to 4.40 GHz, 10MB 6 Cores) RAM & Storage: 8 GB, 1 x 8 GB, DDR4, 2666 MHz, (2 DIMM Slots, Expandable up to 16GB) & 512GB SSD Software: Pre-Loaded Windows 11 Home with Lifetime Validity | MS Office Home and Student 2021 with lifetime validity| McAfee Multi-Device Security 15-month subscription ",
+    "price": "46982",
+    "image": "https://m.media-amazon.com/images/I/71TcPkUibVL._SL1500_.jpg",
+    "category": "electronics"
+  },
+  {
+    "id": 5,
+    "title": "CLARA Pure 925 Sterling Silver Nario Adjustable Ring |Gift for Men and Boys | Partial Matte Finish",
+    "description": "     Silver: 925 Pure Sterling Silver. Stamp will be on product itself.      Adjustable Ring for Men and Boys. Size can be adjusted without any professional help",
+    "price": "1763",
+    "image": "https://m.media-amazon.com/images/I/51o+cKLorYS._SY695_.jpg",
+    "category": "jewelery"
+  }
+]
